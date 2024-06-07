@@ -1,6 +1,5 @@
 Netherlands House Price Prediction using XGBoost and TabNet
 This project aims to predict house prices in the Netherlands using advanced machine learning models, specifically XGBoost and TabNet. The dataset includes various features that influence house prices, such as location, size, and amenities.
-
 Project Structure
 Data Preprocessing: Clean and prepare the dataset for modeling.
 Feature Engineering: Create new features and select important ones.
